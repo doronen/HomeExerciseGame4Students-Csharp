@@ -1,0 +1,206 @@
+Index: 1Question: (12*12)/6+6-10=IsCorrect: FalsePoints: 0
+
+Index: 2Question: (12*10)/4-40+10=IsCorrect: FalsePoints: 0
+
+Index: 3Question: (22/11)*13-3=IsCorrect: FalsePoints: 0
+
+Index: 4Question: (19-12)/7*10=IsCorrect: FalsePoints: 0
+
+Index: 5Question: (80/20)*11-4+1=IsCorrect: FalsePoints: 0
+
+Total Correct answers is: 0 And incorrect is: 5
+
+Index: 1Question: (6*6)/2=IsCorrect: FalsePoints: 0
+
+Index: 2Question: (7*4)/7=IsCorrect: FalsePoints: 0
+
+Index: 3Question: (8*8)/2=IsCorrect: FalsePoints: 0
+
+Index: 4Question: (4*9)/6=IsCorrect: FalsePoints: 0
+
+Index: 5Question: (8/2)*5=IsCorrect: FalsePoints: 0
+
+Index: 6Question: (6/2)*4=IsCorrect: FalsePoints: 0
+
+Index: 7Question: (8*1)/8=IsCorrect: FalsePoints: 0
+
+Total Correct answers is: 0 And incorrect is: 7
+
+Index: 1Question: 9-4+3=IsCorrect: FalsePoints: 0
+
+Index: 2Question: 8-4+6=IsCorrect: FalsePoints: 0
+
+Index: 3Question: 9+3-2=IsCorrect: FalsePoints: 0
+
+Index: 4Question: 4-3-2+1=IsCorrect: FalsePoints: 0
+
+Index: 5Question: 8+5-3=IsCorrect: FalsePoints: 0
+
+Index: 6Question: 5+6-4=IsCorrect: FalsePoints: 0
+
+Index: 7Question: 3-2+1=IsCorrect: FalsePoints: 0
+
+Total Correct answers is: 0 And incorrect is: 7
+
+Index: 1Question: (6*6)/2=IsCorrect: FalsePoints: 0
+
+Index: 2Question: (7*4)/7=IsCorrect: FalsePoints: 0
+
+Index: 3Question: (8*8)/2=IsCorrect: FalsePoints: 0
+
+Index: 4Question: (4*9)/6=IsCorrect: FalsePoints: 0
+
+Index: 5Question: (8/2)*5=IsCorrect: FalsePoints: 0
+
+Index: 6Question: (6/2)*4=IsCorrect: FalsePoints: 0
+
+Index: 7Question: (8*1)/8=IsCorrect: FalsePoints: 0
+
+Total Correct answers is: 0 And incorrect is: 7
+
+Index: 1Question: (6*6)/2=IsCorrect: FalsePoints: 0
+
+Index: 2Question: (7*4)/7=IsCorrect: FalsePoints: 0
+
+Index: 3Question: (8*8)/2=IsCorrect: FalsePoints: 0
+
+Index: 4Question: (4*9)/6=IsCorrect: FalsePoints: 0
+
+Index: 5Question: (8/2)*5=IsCorrect: FalsePoints: 0
+
+Index: 6Question: (6/2)*4=IsCorrect: FalsePoints: 0
+
+Index: 7Question: (8*1)/8=IsCorrect: FalsePoints: 0
+
+Total Correct answers is: 0 And incorrect is: 7
+
+Index: 1Question: 9-4+3=IsCorrect: FalsePoints: 0
+
+Index: 2Question: 8-4+6=IsCorrect: FalsePoints: 0
+
+Index: 3Question: 9+3-2=IsCorrect: FalsePoints: 0
+
+Index: 4Question: 4-3-2+1=IsCorrect: FalsePoints: 0
+
+Index: 5Question: 8+5-3=IsCorrect: FalsePoints: 0
+
+Index: 6Question: 5+6-4=IsCorrect: FalsePoints: 0
+
+Index: 7Question: 3-2+1=IsCorrect: FalsePoints: 0
+
+Total Correct answers is: 0 And incorrect is: 7
+
+Index: 1Question: 9-4+3=IsCorrect: FalsePoints: 0
+
+Index: 2Question: 8-4+6=IsCorrect: FalsePoints: 0
+
+Index: 3Question: 9+3-2=IsCorrect: FalsePoints: 0
+
+Index: 4Question: 4-3-2+1=IsCorrect: FalsePoints: 0
+
+Index: 5Question: 8+5-3=IsCorrect: FalsePoints: 0
+
+Index: 6Question: 5+6-4=IsCorrect: FalsePoints: 0
+
+Index: 7Question: 3-2+1=IsCorrect: FalsePoints: 0
+
+Total Correct answers is: 0 And incorrect is: 7
+
+Index: 1Question: 9-4+3=IsCorrect: FalsePoints: 0
+
+Index: 2Question: 8-4+6=IsCorrect: FalsePoints: 0
+
+Index: 3Question: 9+3-2=IsCorrect: FalsePoints: 0
+
+Index: 4Question: 4-3-2+1=IsCorrect: FalsePoints: 0
+
+Index: 5Question: 8+5-3=IsCorrect: FalsePoints: 0
+
+Index: 6Question: 5+6-4=IsCorrect: FalsePoints: 0
+
+Index: 7Question: 3-2+1=IsCorrect: FalsePoints: 0
+
+Total Correct answers is: 0 And incorrect is: 7
+
+Index: 1Question: 7+5=IsCorrect: TruePoints: 0
+
+Index: 2Question: 6+9=IsCorrect: FalsePoints: 0
+
+Index: 3Question: 3+5=IsCorrect: FalsePoints: 0
+
+Index: 4Question: 4+3=IsCorrect: FalsePoints: 0
+
+Index: 5Question: 6+1=IsCorrect: FalsePoints: 0
+
+Index: 6Question: 7-3=IsCorrect: TruePoints: 0
+
+Index: 7Question: 9-2=IsCorrect: TruePoints: 0
+
+Index: 8Question: 4-3=IsCorrect: TruePoints: 0
+
+Index: 9Question: 5-3=IsCorrect: FalsePoints: 0
+
+Index: 10Question: 6-1=IsCorrect: TruePoints: 0
+
+Index: 11Question: 2*7=IsCorrect: TruePoints: 0
+
+Index: 12Question: 4*7=IsCorrect: TruePoints: 0
+
+Index: 13Question: 4*3=IsCorrect: TruePoints: 0
+
+Index: 14Question: 9*2=IsCorrect: TruePoints: 0
+
+Index: 15Question: 5*7=IsCorrect: TruePoints: 0
+
+Index: 16Question: 4*4=IsCorrect: TruePoints: 0
+
+Index: 17Question: 6/3=IsCorrect: TruePoints: 0
+
+Index: 18Question: 9/3=IsCorrect: TruePoints: 0
+
+Index: 19Question: 8/2=IsCorrect: TruePoints: 0
+
+Index: 20Question: 4/4=IsCorrect: TruePoints: 0
+
+Index: 21Question: 8/4=IsCorrect: FalsePoints: 0
+
+Index: 22Question: 9-4+3=IsCorrect: FalsePoints: 0
+
+Index: 23Question: 8-4+6=IsCorrect: FalsePoints: 0
+
+Index: 24Question: 9+3-2=IsCorrect: FalsePoints: 0
+
+Index: 25Question: 4-3-2+1=IsCorrect: FalsePoints: 0
+
+Index: 26Question: 8+5-3=IsCorrect: FalsePoints: 0
+
+Index: 27Question: 5+6-4=IsCorrect: FalsePoints: 0
+
+Index: 28Question: 3-2+1=IsCorrect: FalsePoints: 0
+
+Index: 29Question: (6*6)/2=IsCorrect: FalsePoints: 0
+
+Index: 30Question: (7*4)/7=IsCorrect: TruePoints: 0
+
+Index: 31Question: (8*8)/2=IsCorrect: FalsePoints: 0
+
+Index: 32Question: (4*9)/6=IsCorrect: FalsePoints: 0
+
+Index: 33Question: (8/2)*5=IsCorrect: FalsePoints: 0
+
+Index: 34Question: (6/2)*4=IsCorrect: FalsePoints: 0
+
+Index: 35Question: (8*1)/8=IsCorrect: FalsePoints: 0
+
+Index: 36Question: (1+(2*3)-3)/4=IsCorrect: FalsePoints: 0
+
+Index: 37Question: ((4*3)-2)/5=IsCorrect: FalsePoints: 0
+
+Index: 38Question: ((9/3)+5-2)/2=IsCorrect: FalsePoints: 0
+
+Index: 39Question: (12/4-3+1)*9=IsCorrect: FalsePoints: 0
+
+Index: 40Question: (8/2)*3-4+2=IsCorrect: FalsePoints: 0
+
+Total Correct answers is: 16 And incorrect is: 24
+
